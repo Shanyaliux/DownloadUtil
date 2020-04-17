@@ -1,0 +1,3 @@
+rootProject.name='DownloadUtil'
+include ':app'
+include ':downloadutil'
